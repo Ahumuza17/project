@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    padding: 0;
+    color: rgb(242, 2, 242);
+    background-color: rgb(12, 3, 12);
+}
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
